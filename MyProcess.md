@@ -30,6 +30,7 @@ print(response.choices[0].message.content)
 
 ## Final result
 Qwen2.5-7B-Instruct is running on the VM on port `8000`, and I reach it locally through `8080`. Once the tunnel was clean, the OpenAI call worked fine.
+I also created the GUIA_COMPLETA.md file with claude to help me deploying it step by step as in the first try with hotolaunch.md it goes wrong for me.
 
 ## ScreenShots
 picture of the qwen_chat.py script working
