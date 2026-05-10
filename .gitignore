@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Log and temp files
+*.log
+*.tmp
+*.swp
+
+# Playwright and tooling state
+.playwright-mcp/
+
+# MacOS files
+.DS_Store
+
+# IDE/editor
+.vscode/
+*.iml
